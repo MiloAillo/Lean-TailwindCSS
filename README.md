@@ -1,3 +1,8 @@
+## Learn-Tailwind
+The place for me to learn Tailwind along with React typescript.
+
+Note: I've decided to take a break from learning TailwindCSS. I found it too difficult to setup and use it along with react. I'm not totally quitting TailwindCSS but at this point of time, i'm not gonna continue this repository and making future projects with tailwindCSS.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
